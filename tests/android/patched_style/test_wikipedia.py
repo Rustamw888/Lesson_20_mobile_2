@@ -2,7 +2,7 @@ from selene import have, be
 from selene.support.shared import browser
 from allure import step as title
 
-from mobile_tests_lesson_13.model import app
+from mobile_tests_lesson_20.model import app
 
 
 def test_search():

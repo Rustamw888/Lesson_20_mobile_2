@@ -8,7 +8,7 @@ from selene import support
 from appium import webdriver
 
 import config
-from mobile_tests_lesson_13 import utils
+from mobile_tests_lesson_20 import utils
 
 
 @pytest.fixture(scope='function', autouse=True)

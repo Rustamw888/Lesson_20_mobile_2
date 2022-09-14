@@ -2,7 +2,7 @@ import pydantic
 from appium.options.android import UiAutomator2Options
 from typing import Literal, Optional
 
-from mobile_tests_lesson_13 import utils
+from mobile_tests_lesson_20 import utils
 
 EnvContext = Literal['personal', 'local', 'test', 'stage', 'prod']
 

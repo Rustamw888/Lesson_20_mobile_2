@@ -5,6 +5,7 @@ __pycache__/
 .python-version
 reports/
 config.personal.env
+config.test.env.browserstack
 *.log
 demo
 browserstack_sample.py
